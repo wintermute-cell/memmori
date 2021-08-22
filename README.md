@@ -1,6 +1,8 @@
 # memmori
 The time you have is limited, so spend it wisely.
 But also remember that the time of everyone around you is just as limited.
+![alt text](https://github.com/wintermute/memmori/blob/main/memmoriscreen.png?raw=true)
+
 
 ## Installation
 1. Clone this repo:
