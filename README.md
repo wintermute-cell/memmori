@@ -9,5 +9,5 @@ But also remember that the time of everyone around you is just as limited.
       ```git clone https://github.com/wintermute-cell/memmori.git```
 2. Compile:
       ```gcc -lncurses -o memmori memmori.c```
-3. Run:
-      ```./memmori```
+3. Run with your birthdate as an argument:
+      ```./memmori [00-00-0000]```
