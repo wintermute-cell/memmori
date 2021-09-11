@@ -1,6 +1,6 @@
 # memmori
 This reminder uses the average life expectancy of 75 years to calculate and  
-visualize the time passed and and the time remaining until death.  
+visualize both, time passed and and time remaining, until death.  
 It is written in C, using the ncurses library for graphics.
 
 
